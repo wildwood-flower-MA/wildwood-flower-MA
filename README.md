@@ -4,7 +4,6 @@ Fizyk i programista - V rok WFiIS AGH.
 
 * **Znam:** Fizykę obliczeniową (w szczególności w zakresie mechaniki kwantowej), zaawansowane metody numeryczne.
 * **Uczę się:** Informatyki kwantowej, Machine Learningu.
-* **Języki programowania:** Python, C++, C.
 
 ## Technologie i Narzędzia
 
