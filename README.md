@@ -3,7 +3,7 @@ Fizyk i programista - V rok WFiIS AGH.
 ## O mnie
 
 * **Znam:** Fizykę obliczeniową (w szczególności w zakresie mechaniki kwantowej), zaawansowane metody numeryczne.
-* **Uczę się:** Informatyki kwantowej, Machine Learningu.
+* **Uczę się:** Informatyki kwantowej, machine learningu.
 
 ## Technologie i Narzędzia
 
